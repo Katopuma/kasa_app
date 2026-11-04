@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"><modelVersion>4.0.0</modelVersion>
+<groupId>x</groupId><artifactId>x</artifactId><version>1</version>
+<dependencies>
+<dependency><groupId>com.jakewharton.android.repackaged</groupId><artifactId>dalvik-dx</artifactId><version>16.0.1</version></dependency>
+<dependency><groupId>com.google.android</groupId><artifactId>android</artifactId><version>4.1.1.4</version></dependency>
+<dependency><groupId>com.android.tools.build</groupId><artifactId>apksig</artifactId><version>2.3.0</version></dependency>
+</dependencies></project>
